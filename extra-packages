@@ -4,6 +4,7 @@ ffmpeg
 fzf
 github-cli
 make
+mkvtoolnix
 ncdu
 ncurses
 neofetch
@@ -13,5 +14,6 @@ ripgrep
 speedtest-cli
 starship
 vim
+yt-dlp
 zellij
 zstd
