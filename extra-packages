@@ -1,3 +1,4 @@
+7zip
 bat
 btop
 ffmpeg
@@ -9,6 +10,7 @@ ncdu
 ncurses
 neofetch
 npm
+nmap
 python3
 ripgrep
 speedtest-cli
